@@ -3,7 +3,7 @@
         <?php _e('Custom Logo', 'affsquare'); ?>
     </h1>
     <p>
-        <?php _e('Helpful stuff here', 'affsquare'); ?>
+        <?php _e('Custom Site Logo Setting', 'affsquare'); ?>
     </p>
 
     <form method="post" action="options.php">
