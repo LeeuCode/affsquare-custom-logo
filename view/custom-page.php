@@ -1,10 +1,7 @@
 <div class="wrap">
     <h1>
-        <?php _e('Custom Logo', 'affsquare'); ?>
-    </h1>
-    <p>
         <?php _e('Custom Site Logo Setting', 'affsquare'); ?>
-    </p>
+    </h1>
 
     <form method="post" action="options.php">
         <?php settings_fields('custom_logo_setting'); ?>
